@@ -129,9 +129,6 @@ p {
 }
 
 /*mainBottom Left END------------------------*/
-.bottomRightMain {
-    overflow: hidden;
-}
 
 .bottomRightMain--push {
     margin-bottom: 30px;
