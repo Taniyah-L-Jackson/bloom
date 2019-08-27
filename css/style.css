@@ -130,7 +130,7 @@ p {
 
 /*mainBottom Left END------------------------*/
 .bottomRightMain {
-    overflow: visible;
+    overflow: hidden;
 }
 
 .bottomRightMain--push {
